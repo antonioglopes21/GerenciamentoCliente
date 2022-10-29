@@ -1,0 +1,11 @@
+{
+  "name":"backend/customermanager",
+  "autoload":{
+    "psr-4":{
+      "Backend\\":"backend/"
+    },
+    "files": [
+      "config.php"
+    ]
+  }
+}
